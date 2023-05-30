@@ -69,10 +69,7 @@ npm run develop
 - Single Resistance History <br>
   ![Screenshot](./client/src/assets/screenshots/8.png)
 
-## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
-This project is licensed under MIT, for more information please visit [this website](https://opensource.org/licenses/MIT)
 
 ## Contribution
 
@@ -84,5 +81,5 @@ This project is licensed under MIT, for more information please visit [this webs
 
 Please feel free to contact me if you need any further information:
 
-- [Email](wwtian9@gmail.com)
-- [Github Profile](https://github.com/joce1ynn)
+- [Email](Rohank@gmail.com)
+
